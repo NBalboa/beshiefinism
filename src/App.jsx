@@ -58,7 +58,13 @@ function App() {
       </div>
       <footer>
         <h2>
-          <a href="#">Source Code</a>
+          <a
+            href="https://github.com/NBalboa/beshiefinism"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Source Code
+          </a>
         </h2>
       </footer>
     </div>
